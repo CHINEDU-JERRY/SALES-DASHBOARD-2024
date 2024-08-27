@@ -18,7 +18,7 @@
 This data analysis aims to provide detailed review of the sales performance of two stores over the past year, by analyzing various aspects of the sales data, to identify trends, make data-driven recommendations and give a precise view of different aspects of the overall store's performance.
 
 
-![Screenshot 2024-08-27 145646](https://github.com/user-attachments/assets/906eb8ac-b5b0-44c5-8ee3-7a2271ea5c98)
+
 
 
 ### Data Sources
