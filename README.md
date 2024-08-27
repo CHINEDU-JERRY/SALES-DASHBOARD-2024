@@ -13,6 +13,7 @@
 
 
 ### Project Overview
+---
 
 This data analysis aims to provide detailed review of the sales performance of two stores over the past year, by analyzing various aspects of the sales data, to identify trends, make data-driven recommendations and give a precise view of different aspects of the overall store's performance.
 
@@ -21,7 +22,7 @@ This data analysis aims to provide detailed review of the sales performance of t
 
 
 ### Data Sources
-
+---
 Sales Data: The primary dataset used for this analysis is the "Sales data.xlsx", containing detailed information about each sales made by each store.
 
 ### Tools
@@ -29,7 +30,7 @@ Sales Data: The primary dataset used for this analysis is the "Sales data.xlsx",
 - Excel- Data Cleaning [Download here](https://microsoft.com)
 
 - ### Data Cleaning/Preparration
-
+---
 - In the initial data preparation phase, We performed the following the tasks;
 
 1. Data analysis.
@@ -38,6 +39,7 @@ Sales Data: The primary dataset used for this analysis is the "Sales data.xlsx",
 4. Data visualization.
 
    ### Exploratory Data Analysis
+---
    EDA involves exploring the sales data to answer key questions, such as:
 
 - Which store made the highest sales?
@@ -48,12 +50,14 @@ Sales Data: The primary dataset used for this analysis is the "Sales data.xlsx",
 ### Data Analysis
 Includes some interesting features worked with;
 
+---
 - Pivot table
 - Pivot charts
 - slicers
 - Filters
 
 ### Results
+---
 The analysis results are summarized as follows;
 
 - Computech is the store with the most sales.
@@ -64,6 +68,7 @@ The analysis results are summarized as follows;
 - The highest and lowest selling items in Microworld store are MEMMORY CARDS and Games respectively.
 
 ### Recommendations
+---
 Based on the analysis, we recommend the following actions;
 
 - focus on improving sales in microworld store by implementing quality marketing strategies and awareness.
@@ -72,6 +77,7 @@ Based on the analysis, we recommend the following actions;
 - Leveraging technology like customer relationship management (CRM) systems can help strealmine sales processes and improve efficiency.
 
 ### Limitations
+---
 
 I had to filter the manager's sales data to the Top 10 managers in order to give a more concise analysis of the managers with the highest number of sales.
 
