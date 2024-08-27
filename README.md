@@ -19,6 +19,7 @@ This data analysis aims to provide detailed review of the sales performance of t
 
 
 
+![Screenshot 2024-08-28 002532](https://github.com/user-attachments/assets/12a95f66-7964-49c5-a0d9-e986c2ec07bb)
 
 
 ### Data Sources
@@ -26,10 +27,15 @@ This data analysis aims to provide detailed review of the sales performance of t
 Sales Data: The primary dataset used for this analysis is the "Sales data.xlsx", containing detailed information about each sales made by each store.
 
 ### Tools
+- Excel- Data Cleaning
 
-- Excel- Data Cleaning 
 
-- ### Data Cleaning/Preparration
+
+
+
+  
+
+- ### Data Cleaning/Preparation
 ---
 - In the initial data preparation phase, We performed the following the tasks;
 
