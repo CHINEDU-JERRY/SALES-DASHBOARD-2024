@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Souurces](#data-sources)
+- [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
@@ -27,7 +27,7 @@ Sales Data: The primary dataset used for this analysis is the "Sales data.xlsx",
 
 ### Tools
 
-- Excel- Data Cleaning [Download here](https://microsoft.com)
+- Excel- Data Cleaning 
 
 - ### Data Cleaning/Preparration
 ---
@@ -73,7 +73,7 @@ Based on the analysis, we recommend the following actions;
 
 - focus on improving sales in microworld store by implementing quality marketing strategies and awareness.
 - invest in marketing and promotions during peak sales seasons to maximize revenues.
-- Organize interactive seminars/workshops for all the managers, setting clear goals and regugarly monitoring performance can help increase sales output.
+- Organize interactive seminars/workshops for all the managers, setting clear goals and regularly monitoring performance can help increase sales output.
 - Leveraging technology like customer relationship management (CRM) systems can help strealmine sales processes and improve efficiency.
 
 ### Limitations
