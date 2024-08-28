@@ -29,10 +29,6 @@ Sales Data: The primary dataset used for this analysis is the "Sales data.xlsx",
 ### Tools
 - Excel- Data Cleaning
 
-
-
-
-
   
 
 - ### Data Cleaning/Preparation
