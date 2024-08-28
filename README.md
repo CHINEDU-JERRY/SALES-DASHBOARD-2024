@@ -19,7 +19,8 @@ This data analysis aims to provide detailed review of the sales performance of t
 
 
 
-![Screenshot 2024-08-28 002532](https://github.com/user-attachments/assets/12a95f66-7964-49c5-a0d9-e986c2ec07bb)
+![Screenshot 2024-08-28 012902](https://github.com/user-attachments/assets/db556278-5285-4d71-89fe-3943edc1cae7)
+
 
 
 ### Data Sources
